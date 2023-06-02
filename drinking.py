@@ -197,8 +197,3 @@ class Drinking:
                 f"Вы восстановили здоровье на {amount}. Текущее здоровье: {self.health}")
         else:
             print("Ваше здоровье уже полное.")
-
-
-if __name__ == "__main__":
-    process = Drinking()
-    process.start()
