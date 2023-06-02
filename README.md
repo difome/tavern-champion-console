@@ -19,6 +19,16 @@ Tavern Champion Console is a text-based console game where players embark on an 
 5. Follow the on-screen prompts and commands to play the game.
 6. Enjoy the adventure, drink responsibly, and become the ultimate Tavern Champion!
 
+## Commands
+
+- `пить`: Drink a random beverage from the available options, which include beer, wine, and vodka.
+- `исследовать`: Explore the world and encounter random events. This command triggers a time-based mechanism where the game state updates every 10 seconds.
+- `статус`: Display the current status of your character, including the drinks consumed, alcohol level, and bonuses acquired.
+- `арена`: Enter the arena to fight a boss character. This command is only available when your alcohol level is not zero.
+- `инвентарь`: View the items in your inventory.
+- `использовать [предмет]`: Use a specific item from your inventory. Currently, only the "Антидот" item is available, which resets your alcohol level to zero.
+- `выход`: Exit the game.
+
 ### Disclaimer
 
 Tavern Champion Console is a fictional game. The consumption of alcohol should always be done responsibly and in accordance with legal drinking age requirements in your jurisdiction. Excessive drinking can have serious health and social consequences. This game does not endorse or encourage excessive alcohol consumption or any harmful behaviors.
